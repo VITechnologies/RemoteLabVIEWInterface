@@ -58,7 +58,7 @@ Create a child of this class to implement your own serialization behavior.</Prop
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
-	<Item Name="DeserializeMethod.vi" Type="VI" URL="../DeserializeMethod.vi">
+	<Item Name="DeSerializeMethod.vi" Type="VI" URL="../DeSerializeMethod.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'$!!!!$1!I1(!!(A!!&amp;"*4:8*J97RJ?G6S,GRW9WRB=X-!!!FP9GJF9X1A;7Y!"!!!!""!-0````]'5X2S;7ZH!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!$!!1!"2.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!5%F.F=GFB&lt;'F[:8)O&lt;(:D&lt;'&amp;T=Q!!#G^C;G6D&gt;#"P&gt;81!!!Z!-0````]&amp;1WRB=X-!%%!Q`````Q:.:82I&lt;W1!!":!-0````]-37ZQ&gt;82T=X2S;7ZH!!!71&amp;!!!Q!$!!1!"1FF=H*P=C"P&gt;81!B!$Q!"1!!!!"!!)!!1!"!!9!!1!"!!%!!1!"!!%!!1!"!!=!#!!*!!I!!1!,!A!"%!!!E!!!!!!!!!)1!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#.!!!!#1!!!!E!!!!*!!!!!!!!!!U&amp;!!!!!1!-!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
@@ -68,7 +68,7 @@ Create a child of this class to implement your own serialization behavior.</Prop
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 	</Item>
-	<Item Name="DeserializeInputs.vi" Type="VI" URL="../DeserializeInputs.vi">
+	<Item Name="DeSerializeInputs.vi" Type="VI" URL="../DeSerializeInputs.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'$!!!!$1!I1(!!(A!!&amp;"*4:8*J97RJ?G6S,GRW9WRB=X-!!!FP9GJF9X1A;7Y!"!!!!!1!5Q!91%!!!@````]!!AJ*&lt;H"V&gt;(2Z='6T!!!51$$`````#UFO=(6U5X2S;7ZH!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!5!"A!(%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+E"Q!"Y!!"135W6S;7&amp;M;8JF=CZM&gt;G.M98.T!!!+&lt;W*K:7.U)'^V&gt;!!!&amp;%"!!!(`````!!)'37ZQ&gt;82T!!!71&amp;!!!Q!&amp;!!9!"QFF=H*P=C"P&gt;81!B!$Q!"1!!!!"!!-!"!!"!!A!!1!"!!%!!1!"!!%!!1!"!!E!!1!+!!%!!1!,!A!"%!!!E!!!!!!!!!)1!!!#%!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#.!!!!!!!!!!E!!!!!!!!!!!!!!!U&amp;!!!!!1!-!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
